@@ -1,5 +1,0 @@
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.Entities\bin\Debug\FlexFitnessCenter.Entities.dll
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.Entities\bin\Debug\FlexFitnessCenter.Entities.pdb
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.Entities\obj\Debug\FlexFitnessCenter.Entities.csprojResolveAssemblyReference.cache
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.Entities\obj\Debug\FlexFitnessCenter.Entities.dll
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.Entities\obj\Debug\FlexFitnessCenter.Entities.pdb

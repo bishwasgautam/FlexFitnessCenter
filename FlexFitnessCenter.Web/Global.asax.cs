@@ -6,6 +6,7 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using FlexFitnessCenter.Web.App_Start;
 
 namespace FlexFitnessCenter.Web
 {
@@ -22,7 +23,7 @@ namespace FlexFitnessCenter.Web
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
-
+            Bootstrapper.Run();
 
         }
     }

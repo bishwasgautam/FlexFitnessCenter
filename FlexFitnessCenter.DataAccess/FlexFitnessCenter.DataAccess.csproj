@@ -41,6 +41,8 @@
   <ItemGroup>
     <Compile Include="DataStore.cs" />
     <Compile Include="GenericRepository.cs" />
+    <Compile Include="IDataAccess.cs" />
+    <Compile Include="IRepository.cs" />
     <Compile Include="MemberRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

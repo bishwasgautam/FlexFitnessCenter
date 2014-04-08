@@ -1,0 +1,8 @@
+﻿<!--<?xml version="1.0" encoding="utf-8" ?>
+<StructureMap>
+  <DefaultInstance
+    PluginType="FlexFitnessCenter.DataAccess.IRepository<>,
+        FlexFitnessCenter.DataAccess"
+    PluggedType="FlexFitnessCenter.DataAccess.GenericRepository<>,
+        FlexFitnessCenter.DataAccess" />
+</StructureMap>-->

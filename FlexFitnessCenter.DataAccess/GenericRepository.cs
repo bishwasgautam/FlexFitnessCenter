@@ -8,9 +8,10 @@ namespace FlexFitnessCenter.DataAccess
 {
     public class GenericRepository<T>:IRepository<T> where T: Identifiable, new() 
     {
-        private readonly DataStore _ds;
+        private readonly IDataAccess _ds;
 
-        public GenericRepository(DataStore ds)
+
+        public GenericRepository(IDataAccess ds)
         {
             _ds = ds;
         }
@@ -32,15 +33,4 @@ namespace FlexFitnessCenter.DataAccess
         }
 
     }
-
-    public interface IRepository<T>
-    {
-        IEnumerable<T> GetAll();
-        IEnumerable<T> GetByIdWith(int id, Expression<Func<T, bool>> query);
-        T GetById(int id);
-
-
-    }
-
-    
 }

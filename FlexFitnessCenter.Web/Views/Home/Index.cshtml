@@ -1,0 +1,19 @@
+﻿@model IEnumerable<FlexFitnessCenter.Entities.GenericMember>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<div id ="mainContainer">
+    <div id="memberList">
+    @foreach(var member in Model)
+    {
+
+        <td>member.FirstName</td>
+        <td>member.LastName</td>
+
+    }
+        </div>
+
+</div>
