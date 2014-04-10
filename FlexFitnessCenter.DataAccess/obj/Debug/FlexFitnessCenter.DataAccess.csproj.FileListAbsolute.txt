@@ -1,7 +1,0 @@
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.DataAccess\obj\Debug\FlexFitnessCenter.DataAccess.csprojResolveAssemblyReference.cache
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.DataAccess\bin\Debug\FlexFitnessCenter.DataAccess.dll
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.DataAccess\bin\Debug\FlexFitnessCenter.DataAccess.pdb
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.DataAccess\bin\Debug\FlexFitnessCenter.Entities.dll
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.DataAccess\bin\Debug\FlexFitnessCenter.Entities.pdb
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.DataAccess\obj\Debug\FlexFitnessCenter.DataAccess.dll
-c:\users\25380\documents\visual studio 2012\Projects\FlexFitnessCenter.Web\FlexFitnessCenter.DataAccess\obj\Debug\FlexFitnessCenter.DataAccess.pdb

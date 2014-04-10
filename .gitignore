@@ -1,0 +1,12 @@
+*.bin
+*.dat
+*.crc
+*.version
+_ReSharper.FlexFitnessCenter/PersistentCaches/LOG
+_ReSharper.FlexFitnessCenter/PersistentCaches/CURRENT
+_ReSharper.FlexFitnessCenter/PersistentCaches/LOCK
+_ReSharper.FlexFitnessCenter/PersistentCaches/MANIFEST-000002
+FlexFitnessCenter.DataAccess/obj/Debug/FlexFitnessCenter.DataAccess.csproj.FileListAbsolute.txt
+FlexFitnessCenter.Entities/obj/Debug/FlexFitnessCenter.Entities.csproj.FileListAbsolute.txt
+FlexFitnessCenter.Web/obj/Debug/FlexFitnessCenter.Web.csproj.FileListAbsolute.txt
+_ReSharper.FlexFitnessCenter/ModuleIds.xml

@@ -4,7 +4,7 @@ using FlexFitnessCenter.Entities;
 
 namespace FlexFitnessCenter.DataAccess
 {
-    public class DataStore
+    public class DataStore : IDataAccess
     {
         public IEnumerable<T> Select<T>()
         {

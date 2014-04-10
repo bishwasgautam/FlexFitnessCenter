@@ -10,9 +10,9 @@ namespace FlexFitnessCenter.DataAccess
 {
     public class MemberRepository: GenericRepository<GenericMember>
     {
-        private readonly DataStore _ds;
+        private readonly IDataAccess _ds;
 
-        public MemberRepository(DataStore ds) : base(ds)
+        public MemberRepository(IDataAccess ds) : base(ds)
         {
             _ds = ds;
         }

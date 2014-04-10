@@ -2,6 +2,7 @@
 {
     public abstract class Identifiable
     {
-        public int Id;
+        public int Id { get; set; }
+    
     }
 }

@@ -14,11 +14,6 @@ namespace FlexFitnessCenter.Entities
         public Address Address{ get; set; }
         public TelephoneDetails TelephoneDetails{ get; set; }
         #endregion
-
-        public GenericMember()
-        {
-            
-        }
     }
 
     public class Address
